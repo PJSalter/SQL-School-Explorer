@@ -132,7 +132,7 @@ public class SchoolDaoImpl implements SchoolDao {
         // all query stays within quotes.
 
 
-        String sql = "DELETE FROM teacher WHERE tFName = 'David' and tLName = 'Mitchell'";
+        String sql = "DELETE FROM teacher WHERE tFName = 'David' AND tLName = 'Mitchell'";
 
         // YOUR CODE ENDS HERE
         jdbcTemplate.update(sql);
