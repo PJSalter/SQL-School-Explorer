@@ -130,7 +130,7 @@ public class SchoolDaoImpl implements SchoolDao {
         // Delete the from the 'teacher' table where the
         // teacher's first name is 'David' and last name is 'Mitchell'
 
-        String sql = "DELETE FROM teacher";
+        String sql = "DELETE FROM teacher where tFName = 'David' and tLName = 'Mitchell'";
 
         // YOUR CODE ENDS HERE
         jdbcTemplate.update(sql);
