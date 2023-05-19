@@ -129,6 +129,8 @@ public class SchoolDaoImpl implements SchoolDao {
 
         // Delete the from the 'teacher' table where the
         // teacher's first name is 'David' and last name is 'Mitchell'
+        // all query stays within quotes.
+
 
         String sql = "DELETE FROM teacher WHERE tFName = 'David' and tLName = 'Mitchell'";
 
