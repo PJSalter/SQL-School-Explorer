@@ -127,6 +127,9 @@ public class SchoolDaoImpl implements SchoolDao {
         // Write a query to remove David Mitchell as a teacher.
         // YOUR CODE STARTS HERE
 
+        // Delete the from the 'teacher' table where the
+        // teacher's first name is 'David' and last name is 'Mitchell'
+
         String sql = "DELETE FROM teacher";
 
         // YOUR CODE ENDS HERE
