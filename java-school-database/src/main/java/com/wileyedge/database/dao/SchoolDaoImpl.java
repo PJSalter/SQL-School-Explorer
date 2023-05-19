@@ -38,6 +38,7 @@ public class SchoolDaoImpl implements SchoolDao {
 
         String sql = "";
 
+
         // YOUR CODE ENDS HERE
 
         return jdbcTemplate.query(sql, new StudentMapper());
