@@ -1,8 +1,6 @@
-package com.company.database;
-
-import com.company.database.model.*;
-import com.company.database.dao.SchoolDao;
-import com.company.database.dao.SchoolDaoImpl;
+package com.wileyedge.database;
+import com.wileyedge.database.dao.SchoolDao;
+import com.wileyedge.database.dao.SchoolDaoImpl;
 import com.wileyedge.database.model.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

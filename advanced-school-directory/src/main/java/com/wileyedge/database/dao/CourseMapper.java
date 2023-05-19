@@ -1,6 +1,6 @@
-package com.company.scholarlyDatabase.dao;
+package com.wileyedge.database.dao;
 
-import com.company.scholarlyDatabase.model.Course;
+import com.wileyedge.database.model.Course;
 import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;

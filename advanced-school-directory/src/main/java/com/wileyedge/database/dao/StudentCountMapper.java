@@ -1,6 +1,6 @@
-package com.company.database.dao;
+package com.wileyedge.database.dao;
 
-import com.company.database.model.StudentClassCount;
+import com.wileyedge.database.model.StudentClassCount;
 import org.springframework.jdbc.core.RowMapper;
 import java.sql.ResultSet;
 import java.sql.SQLException;

@@ -1,4 +1,4 @@
-package com.company.database.model;
+package com.wileyedge.database.model;
 
 public class Course {
 
