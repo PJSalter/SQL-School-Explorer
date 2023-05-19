@@ -127,7 +127,7 @@ public class SchoolDaoImpl implements SchoolDao {
         // Write a query to remove David Mitchell as a teacher.
         // YOUR CODE STARTS HERE
 
-        String sql = "DELETE";
+        String sql = "DELETE FROM teacher";
 
         // YOUR CODE ENDS HERE
         jdbcTemplate.update(sql);
