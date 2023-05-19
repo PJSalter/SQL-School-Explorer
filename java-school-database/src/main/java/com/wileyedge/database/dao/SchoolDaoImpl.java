@@ -103,7 +103,9 @@ public class SchoolDaoImpl implements SchoolDao {
         // Part 2: Write a query to add Robert Dylan to CS148.
         // YOUR CODE STARTS HERE
 
-        String sql = "";
+        String sql = "INSERT INTO course_student (student_id, course_id) " +
+                "VALUES ((SELECT student.sid FROM student WHERE fName = 'Robert' AND lName = 'Dylan'), " +
+                "(SELECT course.cid FROM course WHERE courseCode = 'CS148'))";
 
         // YOUR CODE ENDS HERE
         jdbcTemplate.update(sql);
