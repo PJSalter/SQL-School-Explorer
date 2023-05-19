@@ -91,7 +91,7 @@ public class SchoolDaoImpl implements SchoolDao {
         // Part 1: Write a query to add the student Robert Dylan to the student table.
         // YOUR CODE STARTS HERE
 
-        String sql = "";
+        String sql = "INSERT INTO student (fName, lName) VALUES ('Robert', 'Dylan')";
 
         // YOUR CODE ENDS HERE
          System.out.println(jdbcTemplate.update(sql));
