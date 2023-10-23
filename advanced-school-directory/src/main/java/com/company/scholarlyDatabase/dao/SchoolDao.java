@@ -1,7 +1,6 @@
-package com.wileyedge.database.dao;
+package com.company.scholarlyDatabase.dao;
 
 import com.company.scholarlyDatabase.model.*;
-import com.wileyedge.database.model.*;
 
 import java.util.List;
 
