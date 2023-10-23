@@ -1,4 +1,4 @@
-package com.wileyedge.database.model;
+package com.company.scholarlyDatabase.model;
 
 public class StudentClassCount {
     private String CourseCode;
