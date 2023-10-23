@@ -1,6 +1,12 @@
 # Database Information
 
-The database for this assignment is embedded in the code provided in the GitHub Classroom repository, so you do not need to set up the database for use with this assignment. 
+The database for this assignment is attached within the project itself. 
+No need to set up databases or deal with mystical incantations. 
+It's like having a treasure map without the need for a shovel. 
+Dive into this fun interactive project, where I have completed several SQL queries to 
+access this embedded database and unravel its secrets. 
+Armed with wit, wisdom, and a dash of SQL magic, 
+let's embark on this adventure together! 🎩💻"
 
 This page includes details about the database used in this assignment.
 
