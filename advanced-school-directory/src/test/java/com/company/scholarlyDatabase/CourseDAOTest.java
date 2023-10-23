@@ -1,7 +1,7 @@
-package com.wileyedge.database;
-import com.wileyedge.database.dao.SchoolDao;
-import com.wileyedge.database.dao.SchoolDaoImpl;
-import com.wileyedge.database.model.*;
+package com.company.scholarlyDatabase;
+import com.company.scholarlyDatabase.model.*;
+import com.company.scholarlyDatabase.dao.SchoolDao;
+import com.company.scholarlyDatabase.dao.SchoolDaoImpl;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
