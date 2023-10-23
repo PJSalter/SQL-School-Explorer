@@ -35,4 +35,6 @@ build/
 **/src/main/resources/application.properties/
 **/src/main/resources/data
 
+**/advanced-school-directory/.mvn/
+
 **/advanced-school-directory/src/main/resources/application.properties/
