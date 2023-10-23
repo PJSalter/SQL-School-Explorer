@@ -32,5 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-application.properties/
-data/
+**/src/main/resources/application.properties/
+**/src/main/resources/data
+
+**/advanced-school-directory/src/main/resources/application.properties/
