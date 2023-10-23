@@ -36,3 +36,5 @@ build/
 
 application.properties/
 data/
+
+**/advanced-school-directory/src/main/resources/application.properties/
