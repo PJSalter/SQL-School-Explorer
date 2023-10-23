@@ -1,6 +1,6 @@
-package com.wileyedge.database.dao;
+package com.company.scholarlyDatabase.dao;
 
-import com.wileyedge.database.model.*;
+import com.company.scholarlyDatabase.model.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
