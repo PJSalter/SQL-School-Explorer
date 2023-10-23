@@ -1,11 +1,11 @@
-package com.company.database.controller;
+package com.company.scholarlyDatabase.controller;
 
-import com.company.database.model.Course;
-import com.company.database.dao.SchoolDao;
-import com.wileyedge.database.model.*;
-import com.company.database.model.Student;
-import com.company.database.model.StudentClassCount;
-import com.company.database.model.TeacherCount;
+import com.company.scholarlyDatabase.model.Course;
+import com.company.scholarlyDatabase.dao.SchoolDao;
+import com.company.scholarlyDatabase.model.*;
+import com.company.scholarlyDatabase.model.Student;
+import com.company.scholarlyDatabase.model.StudentClassCount;
+import com.company.scholarlyDatabase.model.TeacherCount;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
