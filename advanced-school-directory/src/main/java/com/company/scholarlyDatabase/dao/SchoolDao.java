@@ -1,7 +1,6 @@
-package com.company.database.dao;
+package com.company.scholarlyDatabase.dao;
 
-import com.company.database.model.*;
-import com.wileyedge.database.model.*;
+import com.company.scholarlyDatabase.model.*;
 import java.util.List;
 
 public interface SchoolDao {
