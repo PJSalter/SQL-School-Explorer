@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+**/.mvn/
+
+/src/main/resources/application.properties
+application.properties
+
+**/advanced-school-directory/src/main/resources/application.properties/s
