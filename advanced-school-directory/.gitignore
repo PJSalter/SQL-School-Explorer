@@ -38,3 +38,6 @@ application.properties/
 data/
 
 **/advanced-school-directory/src/main/resources/application.properties/
+
+/mvnw/
+/mvnw.cmd/
