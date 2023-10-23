@@ -1,4 +1,4 @@
-package com.wileyedge.database;
+package com.company.scholarlyDatabase;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
