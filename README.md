@@ -106,3 +106,4 @@ All new code should be added inside these placeholders. For this specific assign
     - You may need to make a minor edit to the code, such as adding a comment, so that Git knows the code is different.
 6. Copy the URL for the GitHub repository and submit it to the assessment page in Engage.
 7. Your instructor may also ask you to submit a pull request on the repository.`
+# SQL-School-Explorer
