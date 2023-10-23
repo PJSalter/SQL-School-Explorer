@@ -34,6 +34,8 @@ build/
 
 **/.mvn/
 
+advanced-school-directory/.mvn/
+
 application.properties/
 data/
 
