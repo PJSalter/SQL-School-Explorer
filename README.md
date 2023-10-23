@@ -34,7 +34,6 @@ Part 3: `editCourseDescription()`: Writing a query to change the course descript
 Part 4: `deleteTeacher()`: Writing a query to remove David Mitchell as a teacher.
 
 ### Tests Pass 🙌🤩
-
-![Screenshot 2023-10-23 at 18.17.42.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Ffn%2F0gq2m2gj0ql7ytmr9qss7zc80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_MQ5hz6%2FScreenshot%202023-10-23%20at%2018.17.42.png)
+<img width="532" alt="Screenshot 2023-10-23 at 18 32 01" src="https://github.com/PJSalter/SQL-School-Explorer/assets/45575016/85bd6792-e15c-41bb-8479-6faefc45324d">
 
 ### ⭐️🚀Project Completed by [Peter Salter](https://github.com/PJSalter)
