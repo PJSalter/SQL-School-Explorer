@@ -2,7 +2,7 @@
 
 ### ✨ Explore the SQL School Database!
 Welcome to the SQL School Explorer, your ticket to the world of SQL queries for a dynamic school database. This exciting journey is your chance to unravel the hidden gems of student and course information by crafting creative SQL queries.
-- For a more detailed understanding on the layout of the database structure and the intriguing data concealed within each table, refer to the ["DATABASE_INFORMATION.md"](https://github.com/PJSalter/SQL-School-Explorer/blob/e1cb6a4c8114c3b43e15332ff07a1c4f7e103d19/DATABASE_INFORMATION.md) page within the project.
+- For a more detailed understanding on the layout of the database structure and the intriguing data concealed within each table, refer to the ["DATABASE_INFORMATION.md"](https://github.com/PJSalter/SQL-School-Explorer/blob/main/DATABASE_INFORMATION.md) page within the project.
 
 ### Your SQL Adventure Kit
 In this engaging experience, I've been wielding Java's SQL library to perform your SQL queries. Since you're venturing into the world of Java, there are a few important things to remember:
