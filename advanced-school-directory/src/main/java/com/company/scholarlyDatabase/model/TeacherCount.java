@@ -1,4 +1,4 @@
-package com.wileyedge.database.model;
+package com.company.scholarlyDatabase.model;
 
 public class TeacherCount {
     private String dept;
